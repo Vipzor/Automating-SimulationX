@@ -1,2 +1,1 @@
-Testing this readme file
-hmmmmmmmmmmmmmm
+In this project I use the SimulationX API, which involves communicating to the modellica code using Python, to automate the process of modelling, simulating, extracting and post-processing results and graphs, and pasting these into a standard Microsoft Word report template.
